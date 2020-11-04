@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hi im sandra and im doing this git guide for learn before i work with a team.
